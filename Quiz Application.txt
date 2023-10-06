@@ -17,13 +17,13 @@ Map<int, String> questions = {
   12: "If you freeze water, what do you get?",
   13: "How many planets are in our solar system?",
   14: " What do caterpillars turn into?",
-  15:"question",
-  16:"question",
-  17:"question",
-  18:"question",
-  19:"question",
-  20:"question",
- 
+  15: "question",
+  16: "question",
+  17: "question",
+  18: "question",
+  19: "question",
+  20: "question"
+
   // Add more questions here
 };
 
@@ -42,13 +42,13 @@ Map<int, String> answers = {
   12: "Ice",
   13: "8",
   14: "Butterfuy",
-  15:"Answer",
-  16:"Answer",
-  17:"Answer",
-  18:"Answer",
-  19:"Answer",
-  20:"Answer",
- 
+  15: "Answer",
+  16: "Answer",
+  17: "Answer",
+  18: "Answer",
+  19: "Answer",
+  20: "Answer"
+
   // Add more answers here
 };
 
